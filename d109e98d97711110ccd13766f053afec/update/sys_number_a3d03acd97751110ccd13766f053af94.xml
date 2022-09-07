@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_811164_james_san_jamesique">x_811164_james_san_jamesique</category>
+        <maximum_digits>6</maximum_digits>
+        <number>2000</number>
+        <prefix>JA</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 07:10:46</sys_created_on>
+        <sys_id>a3d03acd97751110ccd13766f053af94</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>JA</sys_name>
+        <sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope>
+        <sys_update_name>sys_number_a3d03acd97751110ccd13766f053af94</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 07:10:46</sys_updated_on>
+    </sys_number>
+</record_update>

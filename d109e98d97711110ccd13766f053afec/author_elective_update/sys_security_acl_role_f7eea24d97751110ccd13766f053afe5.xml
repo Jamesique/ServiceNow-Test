@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 07:02:20</sys_created_on>
+        <sys_id>f7eea24d97751110ccd13766f053afe5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_811164_james_san_jamesique.x_811164_james_san.jamesique_user</sys_name>
+        <sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope>
+        <sys_security_acl display_value="x_811164_james_san_jamesique">33eea24d97751110ccd13766f053afe3</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f7eea24d97751110ccd13766f053afe5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 07:02:20</sys_updated_on>
+        <sys_user_role display_value="x_811164_james_san.jamesique_user" name="x_811164_james_san.jamesique_user">6bee66c997751110ccd13766f053af9d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</application>
+        <file_path/>
+        <instance_id>4210fcd9db1599d42f68c59705961976</instance_id>
+        <instance_name>dev131762</instance_name>
+        <name>sys_security_acl_role_f7eea24d97751110ccd13766f053afe5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-09-06 07:02:20</sys_created_on><sys_id>f7eea24d97751110ccd13766f053afe5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_811164_james_san_jamesique.x_811164_james_san.jamesique_user</sys_name><sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package><sys_policy/><sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope><sys_security_acl display_value="x_811164_james_san_jamesique">33eea24d97751110ccd13766f053afe3</sys_security_acl><sys_update_name>sys_security_acl_role_f7eea24d97751110ccd13766f053afe5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-09-06 07:02:20</sys_updated_on><sys_user_role display_value="x_811164_james_san.jamesique_user" name="x_811164_james_san.jamesique_user">6bee66c997751110ccd13766f053af9d</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>-1761087004</payload_hash>
+        <record_name>x_811164_james_san_jamesique.x_811164_james_san.jamesique_user</record_name>
+        <reverted_from/>
+        <source>5509e98d97711110ccd13766f053afee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 07:02:20</sys_created_on>
+        <sys_id>f7eee24d97751110ccd13766f053af00</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>183119b648a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 07:02:20</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>33eee24d38751110455d4bb12b163b00</update_guid>
+        <update_guid_history>33eee24d38751110455d4bb12b163b00:-1761087004</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_811164_james_san_jamesique.x_811164_james_san.jamesique_user">457032cd97751110ccd13766f053af53</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-06 07:08:58</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>03380ef7addb4670805d97e707975164</sys_id>
+        <sys_metadata>f7eea24d97751110ccd13766f053afe5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_811164_james_san_jamesique.x_811164_james_san.jamesique_user</sys_name>
+        <sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package>
+        <sys_parent display_value="">33eea24d97751110ccd13766f053afe3</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope>
+        <sys_scope_delete display_value="">1557b7f6a34947dc8735566b17528ae9</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_f7eea24d97751110ccd13766f053afe5</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_f7eea24d97751110ccd13766f053afe5">f7eee24d97751110ccd13766f053af00</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-09-06 07:08:58</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

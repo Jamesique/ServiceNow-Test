@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="ee51ea9d97311110ccd13766f053af83" sys_domain="global" table="x_811164_james_san_jamesique" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 00:41:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a651ea9d97311110ccd13766f053af87</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">ee51ea9d97311110ccd13766f053af83</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">eee8b68597b51110ccd13766f053af12</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 00:41:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 00:41:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a251ea9d97311110ccd13766f053af88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">ee51ea9d97311110ccd13766f053af83</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">a251ea9d97311110ccd13766f053af82</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 00:41:28</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 00:45:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4c32e6dd97311110ccd13766f053af6a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">ee51ea9d97311110ccd13766f053af83</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_811164_james_san_jamesique" sys_domain="global" view="Default view">0032e6dd97311110ccd13766f053af68</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 00:45:07</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_811164_james_san_jamesique</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 00:41:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee51ea9d97311110ccd13766f053af83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_811164_james_san_jamesique</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope>
+            <sys_update_name>sys_ui_form_sections_ee51ea9d97311110ccd13766f053af83</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 00:41:28</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

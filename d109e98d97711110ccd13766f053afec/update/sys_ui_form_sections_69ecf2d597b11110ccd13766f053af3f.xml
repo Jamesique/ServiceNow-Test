@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="69ecf2d597b11110ccd13766f053af3f" sys_domain="global" table="x_811164_james_san_jamesique" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 02:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2decf2d597b11110ccd13766f053af42</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">69ecf2d597b11110ccd13766f053af3f</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">2decf2d597b11110ccd13766f053af3b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 02:41:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 02:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e5ecf2d597b11110ccd13766f053af43</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">69ecf2d597b11110ccd13766f053af3f</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">a1ecf2d597b11110ccd13766f053af3e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 02:41:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 02:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29ecf2d597b11110ccd13766f053af53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_811164_james_san_jamesique" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">69ecf2d597b11110ccd13766f053af3f</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_811164_james_san_jamesique" sys_domain="global" view="5bd975bd0fa03200cd674f8ce1050e7f">2decf2d597b11110ccd13766f053af3e</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 02:41:49</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_811164_james_san_jamesique</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-09-07 02:41:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69ecf2d597b11110ccd13766f053af3f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_811164_james_san_jamesique</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="James-Sandiego" source="x_811164_james_san">d109e98d97711110ccd13766f053afec</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="James-Sandiego">d109e98d97711110ccd13766f053afec</sys_scope>
+            <sys_update_name>sys_ui_form_sections_69ecf2d597b11110ccd13766f053af3f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-09-07 02:41:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="User" name="User">5bd975bd0fa03200cd674f8ce1050e7f</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
